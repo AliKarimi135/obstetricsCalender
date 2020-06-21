@@ -1,0 +1,9 @@
+c:\users\ali\documents\visual studio 2012\Projects\obstetricsCalender\obstetricsCalender\bin\Debug\obstetricsCalender.exe.config
+c:\users\ali\documents\visual studio 2012\Projects\obstetricsCalender\obstetricsCalender\obj\Debug\obstetricsCalender.Form1.resources
+c:\users\ali\documents\visual studio 2012\Projects\obstetricsCalender\obstetricsCalender\obj\Debug\obstetricsCalender.Properties.Resources.resources
+c:\users\ali\documents\visual studio 2012\Projects\obstetricsCalender\obstetricsCalender\obj\Debug\obstetricsCalender.csproj.GenerateResource.Cache
+c:\users\ali\documents\visual studio 2012\Projects\obstetricsCalender\obstetricsCalender\bin\Debug\obstetricsCalender.exe
+c:\users\ali\documents\visual studio 2012\Projects\obstetricsCalender\obstetricsCalender\bin\Debug\obstetricsCalender.pdb
+c:\users\ali\documents\visual studio 2012\Projects\obstetricsCalender\obstetricsCalender\obj\Debug\obstetricsCalender.exe
+c:\users\ali\documents\visual studio 2012\Projects\obstetricsCalender\obstetricsCalender\obj\Debug\obstetricsCalender.pdb
+C:\Users\ali\Documents\Visual Studio 2012\Projects\obstetricsCalender\obstetricsCalender\bin\Debug\DateTimeSelector.dll
